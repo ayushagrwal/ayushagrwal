@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Data Structures & Algorithms, MERN stack Web Development, Open Source.**
 
-- 📫 Reach me asap: [ayushagr0905@gmail.com](ayushagr0905@gmail.com)
+- 📫 Reach me at: [ayushagr0905@gmail.com](ayushagr0905@gmail.com)
 
 - 👨‍💻 All of my projects are available at: [My Portfolio Website](https://cadenceo.github.io/Cadence-Portfolio/)
 
