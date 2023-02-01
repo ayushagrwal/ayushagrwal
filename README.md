@@ -31,7 +31,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asquare9&show_icons=true&locale=en&layout=compact" alt="asquare9" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asquare9&show_icons=true&locale=en" alt="asquare9" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asquare9&show_icons=true&locale=en" alt="asquare9" /></p> -->
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=asquare9)](https://github.com/asquare9/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asquare9&" alt="asquare9" /></p>
 
