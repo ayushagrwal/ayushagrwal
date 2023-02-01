@@ -32,5 +32,5 @@
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=asquare9&show_icons=true&theme=radical)](https://github.com/asquare9/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asquare9&" alt="asquare9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asquare9&show_icons=true&theme=radical" alt="asquare9" /></p>
 
