@@ -9,7 +9,7 @@
 
 - 📫 Reach me at: [ayushagr0905@gmail.com](ayushagr0905@gmail.com)
 
-- 👨‍💻 All of my projects are available at: [My Portfolio Website](https://asquare9.github.io/Asquare-Portfolio/)
+- 👨‍💻 All of my projects are available at: [My Portfolio Website](https://ayushagrwal.github.io/Asquare-Portfolio/)
 
 - 💬 Ping me about: **Web Development and Competitive Programming.**
 
