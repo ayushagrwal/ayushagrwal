@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1><b>Hi there, I'm </b><a href="https://github.com/ayushagrwal">Ayush</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushagrwal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushagrwal" /> </p>
+**About me** </n>
+I'm a passionate Software Developer graduated from IIT Roorkee. I love tackling complex challenges, building scalable systems, and exploring music in my free time. Always eager to learn, grow, and create!
 
-- 🌱 I’m currently learning: **Data Structures & Algorithms, MERN stack Web Development, Open Source.**
-
-- 📫 Reach me at: [ayushagr0905@gmail.com](ayushagr0905@gmail.com)
-
-- 💬 Ping me about: **Web Development and Competitive Programming.**
-
-- 💜 Interests: **Singing🎵, Guitar🎸, Podcasts🎙**
-
-- ⚡ A Fun fact: **Music and coding both can enhance creativity and improve problem-solving skills!**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagrwal&layout=compact&show_icons=true&theme=radical)](https://github.com/ayushagrwal/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushagrwal&show_icons=true&theme=radical" alt="ayushagrwal" /></p>
-
+- 🔭 My interests: Competitive Programming, System Design and Full-Stack Development.
+- 👨‍💻 My tech stack: C++, Python, Typescript, ReactJS, NextJS, NodeJS, SQL.
+- ✍🏻 My Coding profiles: [Codeforces](https://codeforces.com/profile/lostsoul123), [LeetCode](https://leetcode.com/u/ayus09/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ayush-agarwal-2a74b120b/), [Twitter](https://x.com/ayushhtwt)
+- 🎤 I love to sing and play guitar.
