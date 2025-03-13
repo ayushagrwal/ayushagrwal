@@ -1,7 +1,8 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/ayushagrwal">Ayush</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-**About me** </n>
+**About me**
+<br>
 I'm a passionate Software Developer graduated from IIT Roorkee. I love tackling complex challenges, building scalable systems, and exploring music in my free time. Always eager to learn, grow, and create!
 
 - 🔭 My interests: Competitive Programming, System Design and Full-Stack Development.
